@@ -1,0 +1,8 @@
+com/olichid/learning/demo_poll/repository/UserRepository.class
+com/olichid/learning/demo_poll/config/AuditingConfig.class
+com/olichid/learning/demo_poll/DemoPollApplication.class
+com/olichid/learning/demo_poll/model/audit/DateAudit.class
+com/olichid/learning/demo_poll/model/User.class
+com/olichid/learning/demo_poll/model/RoleName.class
+com/olichid/learning/demo_poll/model/Role.class
+com/olichid/learning/demo_poll/repository/RoleRepository.class
